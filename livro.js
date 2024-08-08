@@ -1,6 +1,6 @@
 let MetaDeLivros = 5 
 
-let livros = ["Biblia", " O pequeno principe", ];
+let livros = ["Biblia", "O pequeno principe","Jogos Vorazes", "Viagem ao centro da Terra" ];
 
 let faltam = MetaDeLivros - livros.length;
 
